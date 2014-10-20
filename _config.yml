@@ -6,7 +6,7 @@
 name: Cindy Wong
 
 # Short bio or description (displayed in the header)
-description: Software Analyst at Genesys
+description: RPM - Random Personal Musings
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -30,7 +30,7 @@ footer-links:
   stackoverflow: users/1243165/ckpwong # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
-disqus: 
+disqus: ckpwong
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-55910281-1
