@@ -19,7 +19,7 @@ In my prior lives, I have dabbled with Perl, Python, Ruby, and C/C++.
 
 ### Crafts
 
-My main outlet of creativity is knitting and other yarn-related activities.  My Ravelry account is [www.ravelry.com/people/ckpwong](http://www.ravelry.com/people/ckpwong).
+My main outlet of creativity is knitting and other yarn-related activities.  Check [my Raverly account](http://www.ravelry.com/people/ckpwong) for some of my projects and inspirations.
 
 I also dabble with sewing on older/vintage machines.  My current sewing machines are Singer Touch & Sew 648, Singer Featherweight 221-1 and Singer 201k.  All of them are older than me.  Only the Touch & Sew is younger than my mom.
 
