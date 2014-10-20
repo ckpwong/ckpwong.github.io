@@ -9,7 +9,7 @@ I am a software developer at Genesys.
 
 Outside of work, I have a weak resistence to crafting, reading, quality tea and coffee, gaming.  And of course, chocolate.
 
-I am not addicted to exercising, but we get along. 
+I am not addicted to fitness, but we get along. 
 
 ### Technologies
 
@@ -37,13 +37,26 @@ Hong Kong style milk tea and Chinese teas are the favourites in our household.  
 
 I am an avid follower of the professional StarCraft scene.  My current favourite player is [StarTale Life](http://wiki.teamliquid.net/starcraft2/Life).  
 
-Yes, I am a Zerg sympatheizer.
+Yes, I am a Zerg sympathizer.
 
 ### Chocolate
 
 Chocolate makes everything taste better.  My favourite is from the local SOMA Chocolate.  Their Mayan Chocolate (drinking) is absolutely fantastic.
 
 In general I prefer chocolate at about 60-75% cocoa content.
+
+### Fitness
+
+I have never been particular athletic.  But I want to be strong and able, much more than wanting to skinny.  I was never a damsel-in-distress type of person.
+
+I run.  I workout with free weights.  I use body weight exercises.  None very frequently in the recent past.
+
+Current goal is a half marathon in a year.
+
+Event completions:
+- 2007 Sportinglife 10k
+- 2007 United Way CN Tower Climb  (30:21)
+- (2 kids later) 2014 United Way CN Tower Climb  (37:43)
 
 ### Contact me
 
